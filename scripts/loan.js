@@ -139,5 +139,7 @@ function loan() {
     document.getElementById('total').innerHTML=text8;
     document.getElementById('total').innerHTML = text9;
 
+    window.location.reload()
+
 }
 
